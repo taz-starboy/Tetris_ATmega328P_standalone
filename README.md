@@ -13,7 +13,7 @@ It explains how to start with a virgin ATmega328P:
 ## Burn the bootloader on the ATmega328P
 
 <p align="center">
-    <img src="./resources/burn_bootloader_connections_image.png" width="50%" />
+    <img src="resources/burn_bootloader_connections_image.png" width="50%" />
 </p>
 
 ## Burn the Tetris program
